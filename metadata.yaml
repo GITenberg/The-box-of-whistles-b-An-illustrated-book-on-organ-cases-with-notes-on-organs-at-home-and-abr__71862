@@ -1,11 +1,16 @@
 _repo: The-box-of-whistles-b-An-illustrated-book-on-organ-cases-with-notes-on-organs-at-home-and-abr__71862
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71862-h/images/cover.jpg
 creator:
   author:
     agent_name: Norbury, John
     gutenberg_agent_id: '56431'
     url: http://www.gutenberg.org/2009/agents/56431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71862#The-box-of-whistles-b-An-illustrated-book-on-organ-cases-with-notes-on-organs-at-home-and-abr_
 gutenberg_issued: '2023-10-13'
 identifiers:
   gutenberg: '71862'
